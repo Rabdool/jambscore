@@ -6,4 +6,4 @@ function jambScore(num) {
         console.log("Not Eligible");
     }
 }
-console.log(jambScore(180));
+jambScore(180);
