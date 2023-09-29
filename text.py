@@ -3,5 +3,3 @@ if jamb >= 180:
     print("Eligible")
 else:
     print("Not eligible")
-
-
